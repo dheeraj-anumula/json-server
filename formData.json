@@ -1,0 +1,25 @@
+{
+  "formData": [
+    {
+      "type": "text",
+      "name": "username",
+      "label": "Enter User",
+      "required": true
+    },
+    {
+      "type": "password",
+      "name": "password",
+      "label": "Enter password",
+      "required": true
+    },
+    {
+      "type": "checkbox",
+      "name": "rememberPassword",
+      "label": "Remember password"
+    },
+    {
+      "type": "submit",
+      "name": "Login"
+    }
+  ]
+}
